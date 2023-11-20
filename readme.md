@@ -2,7 +2,7 @@
 
 ## Overview
 
-The ADM PANEL project is an open-source administration panel designed for [provide a brief description of its purpose and functionalities].
+The ADM PANEL project is an open-source administration panel designed for fun and testing purposes, It has only two Functionallities for now.
 
 ## License
 
@@ -19,7 +19,7 @@ By accepting this license, you commit to adhering to both the team's general gui
 
 ### Public Domain Release
 
-As of [insert release date], the ADM PANEL project is released into the public domain and is uncopyrighted. Anyone is free to use, modify, and distribute the project without any restrictions.
+As of 2023, the ADM PANEL project is released into the public domain and is uncopyrighted. Anyone is free to use, modify, and distribute the project without any restrictions.
 
 ## Usage
 
