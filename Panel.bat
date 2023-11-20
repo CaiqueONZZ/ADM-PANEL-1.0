@@ -5,7 +5,7 @@
 :begin
 set pingb=true
 cls
-echo Adm    panel 
+echo Admin    panel 
 echo [------------]  
 echo [%USERNAME%]
 echo.
