@@ -41,6 +41,7 @@ The license status is regularly updated by LICENSE AI, and licenses are issued b
 
 The `PANEL.bat` file includes a configuration section where you can customize settings. Open the file in a text editor to view and modify configurations.
 
-## Acknowledgments
+## Acknowledgments | Credits
 
 TY for using the ADM PANEL project!
+Made by Readme AI
