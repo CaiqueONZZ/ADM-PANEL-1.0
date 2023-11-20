@@ -11,7 +11,7 @@ echo [%USERNAME%]
 echo.
 echo.
 echo 1) ECHO ANYTHING
-echo 2) PING ANY SITE  (www only)
+echo 2) PING ANY SITE  (www only, try again if needed)
 
 set /p ch=[Choose]:
 
