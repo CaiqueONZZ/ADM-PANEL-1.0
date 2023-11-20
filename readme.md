@@ -1,4 +1,4 @@
-# ADM PANEL Project
+# Admin PANEL Project
 
 ## Overview
 
