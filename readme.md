@@ -2,7 +2,7 @@
 
 ## Overview
 
-The ADM PANEL project is an open-source administration panel designed for fun and testing purposes, It has only two Functionallities for now.
+The ADM PANEL project is an open-source administration panel designed for fun and testing purposes, It has only two Functionalities for now.
 
 ## License
 
