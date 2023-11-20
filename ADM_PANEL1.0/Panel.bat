@@ -1,6 +1,6 @@
-@echo off
 :config
-start license.txt
+::Customize Here :)
+@echo off
 @color b
 :begin
 set pingb=true
